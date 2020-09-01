@@ -5,7 +5,7 @@ Project is developed using PHP\
 Project page: http://nfqtask5.herokuapp.com
 
 # Page users
-- Specialist - doctors
+- Specialists - doctors
 - Customers - patients
 
 
