@@ -51,7 +51,7 @@ $dateErrors = null;
 		include 'templates/appointment_log.tpl.php';
 		}
 	} 
-	if(!empty($_POST['submit']))
+	if(!empty($_POST['submit2']))
 		{
 			session_unset();
 			common::redirect("index.php?module={$module}&action=list");
