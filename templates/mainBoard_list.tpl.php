@@ -57,5 +57,5 @@
 ?>
 
 <form action="" method ="POST">
-<p><input type="submit" class="submit button float-left" name="submit" value="Log Out"></p>
+<p><input type="submit" class="submit button float-left" name="submit2" value="Log Out"></p>
 	</form>
