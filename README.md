@@ -1,7 +1,7 @@
 # About
 NFQ Software Engineering Internship task\
 Developed by Vilius Gečas\
-Project is developed using PHP
+Project is developed using PHP\
 Project page: http://nfqtask5.herokuapp.com
 
 # Page users
