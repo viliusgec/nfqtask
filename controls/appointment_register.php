@@ -17,8 +17,8 @@ $maxLengths = array (
 );
 $validations = array (
 	'PersonalNumber' => 'int',
-	'FirstName' => 'anything',
-	'LastName' => 'anything',
+	'FirstName' => 'words',
+	'LastName' => 'words',
 	'DateAndTime' => 'datetime',
 	'Doctor'=> 'anything'
 );
