@@ -30,6 +30,7 @@ User can choose from 4 different functions:
 ### Waiting board 
 - User must enter his information (personal number and unique ID)
 - If information is correct, user can see waiting line for each specialist (started appointments and 5 waiting user IDs)
+- Page automatically refreshes every 5 seconds
 
 ### Doctors page
 - Doctor must enter his credentials (employee ID and password)
